@@ -1,0 +1,18 @@
+img{
+    margin-top: 30px;
+    height: 300px;
+    width: 200px;
+    border-radius: 30px;
+}
+body{
+    background: rgb(126, 75, 131);
+    color: white;
+}
+#btn{
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+}
+#btn:hover{
+    background: linear-gradient(45deg,rgb(15, 13, 13)
+}
